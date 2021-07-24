@@ -1,0 +1,2 @@
+# SnapdealTesting
+Assignment Statement:  Automation : Write a selenium script for the following:- a. Search “Samsung android phone” on snap deal b. Select the product having the least price and also fetch the list of the product in search result c. Add the product to the cart and check weather the right product is added or not d. Check the final price of added product and compare with the listed price and if values are different then find the difference between them. e. Run this script on both Mozilla and Chrome simultaneously.
